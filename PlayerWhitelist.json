@@ -14,9 +14,7 @@
                 }
             ]
         },
-  "BlacklistedUsers": {
-        "333079688": "don/t ditch AF MT next time."
-    },
+  "BlacklistedUsers": nil,
   "Announcement": {
     "text": "LUNAR PRIVATE IS NOW UP!!!",
     "expiretime": 1713556199.3487132,
