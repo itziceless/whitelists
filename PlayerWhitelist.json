@@ -7,9 +7,39 @@
                 {
                     "text": "LUNAR OWNER",
                     "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        "851958590163124285": {
+            "hash": "ca7e37b724461eabcaee84f89113ebe7944db7d5ae18689bfcd04970732397c1c97a4a595b45b550b26a533ba63ae76c4c4281ccb498c8fddd565017885579ea",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "Good Boy",
+                    "color": [
+                        100,
+                        149,
+                        237
+                    ]
+                }
+            ]
+        },
+        "1043889470249906217": {
+            "hash": "071589c42ec0bb73184c645d6b1daa182b84390242a40eeeeff8d19da2551194aaf131f49a4264fd360c2beb4aab68024fde3fdb1593f280ee550af89c5b728b",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "FAMOUS",
+                    "color": [
                         255,
-                        50,
-                        50
+                        105,
+                        108
                     ]
                 }
             ]
