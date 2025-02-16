@@ -14,7 +14,7 @@
                 }
             ]
         },
-  "BlacklistedUsers": nil,
+  "BlacklistedUsers": {},
   "Announcement": {
     "text": "LUNAR PRIVATE IS NOW UP!!!",
     "expiretime": 1713556199.3487132,
