@@ -2,13 +2,19 @@
   "1187969651561467966": {
     "userid": "44ca64633e2d676669d76feb5992962502a2d81f68a13879891d4f1998e78eeb0174b654f1dae8d003b84cecc60eb81d69a1af5decf13474420c78d79c969c0f",
     "type": 3,
-    "tag": "🌙 GALAXY OWNER ",
+    "tag": "🌙 OWNER ",
     "color": "#0096FF"
   },
   "1411032317866278952": {
     "userid": "f58c737de73c58f7702df7e120c5a6e7a7118a02fd388267791d26f45943a0a6564681d2f9348b304f0ebfba3bc917313589f30b1d96e05689e74b5b131b2dbe",
     "type": 3,
-    "tag": "🌙 GALAXY OWNER ",
+    "tag": "🌙 OWNER ",
+    "color": "#0096FF"
+  },
+  "1043889470249906217": {
+    "userid": "1661669a719008bcf9c59e4938413f77fa3e6da8f180d7f7ab7aa44d2882d99cfd86f79d218045cd78ea4e9503ce3a19b14ada73a760bdb7de1cdf64fcc83176",
+    "type": 3,
+    "tag": "🌙 ADMIN ",
     "color": "#0096FF"
   }
 }
