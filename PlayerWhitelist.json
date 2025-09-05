@@ -1,9 +1,7 @@
-{"1187969651561467966": {
-  "userid": "504ea9afb975c92828a2fa0f6d7077005d2eb45c9e60c7987ef2da71d4ea0562c523fdd9cea247ea9fb1899b00d28d4a5ab01dfe366f1f045961a5b5daf962ef", 
-  "attackable": "false",
-  "owner": "true",
-  "tag": "LUNAR OWNER", 
-  "color": "Purple", 
-  "type": "2"
-  }
-}
+{
+  "1187969651561467966": {
+    "userid": "44ca64633e2d676669d76feb5992962502a2d81f68a13879891d4f1998e78eeb0174b654f1dae8d003b84cecc60eb81d69a1af5decf13474420c78d79c969c0f",
+    "type": "3",
+    "tag": "OWNER",
+    "color": "#00FF00"
+  },
