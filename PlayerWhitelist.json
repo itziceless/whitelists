@@ -1,8 +1,14 @@
 {
   "1187969651561467966": {
-    "userid": "880bdd334784e6c4081742edf0759475a61b7c6fb97a053c9f8ead063b45af93392d819dcabc4cd3876c339a36e462c1ea8072c372ad5982a7c2c8c2c200f7fc",
+    "userid": "44ca64633e2d676669d76feb5992962502a2d81f68a13879891d4f1998e78eeb0174b654f1dae8d003b84cecc60eb81d69a1af5decf13474420c78d79c969c0f",
     "type": 3,
-    "tag": "🌙 OWNER",
-    "color": "#6495ED"
+    "tag": "Nightfall Owner",
+    "color": "#0047AB"
+  },
+  "1043889470249906217": {
+    "userid": "f58c737de73c58f7702df7e120c5a6e7a7118a02fd388267791d26f45943a0a6564681d2f9348b304f0ebfba3bc917313589f30b1d96e05689e74b5b131b2dbe",
+    "type": 3,
+    "tag": "Seal Team 6",
+    "color": "#FFD700"
   }
 }
